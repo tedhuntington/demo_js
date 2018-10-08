@@ -1,0 +1,8 @@
+{
+ "i2c": {
+  "enable": true,
+  "freq": 100000,
+  "sda_gpio": 23,
+  "scl_gpio": 22
+ }
+}
